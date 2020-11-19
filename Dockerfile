@@ -2,7 +2,7 @@ FROM mcr.microsoft.com/dotnet/sdk:3.1 AS sdk
 WORKDIR src
 
 COPY *.sln .
-COPY App/SprotsStore App/
+COPY App/*.csproj App/
 RUN dotnet restore
 
 
