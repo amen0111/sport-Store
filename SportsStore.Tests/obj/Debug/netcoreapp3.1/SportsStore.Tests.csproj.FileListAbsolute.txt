@@ -1,0 +1,4 @@
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp3.1\SportsStore.Tests.csprojAssemblyReference.cache
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp3.1\SportsStore.Tests.AssemblyInfoInputs.cache
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp3.1\SportsStore.Tests.AssemblyInfo.cs
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp3.1\SportsStore.Tests.csproj.CoreCompileInputs.cache

@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "defaultProvider": "jsdelivr",
+  "libraries": [
+    {
+      "library": "bootstrap@4.5.3",
+      "destination": "wwwroot/libs/bootstrap"
+
+    },
+    {
+      "library": "jquery@3.5.1",
+      "destination": "wwwroot/libs/jquery"
+    },
+    {
+      "library": "fontawesome@4.7.0",
+      "destination": "wwwroot/libs/font-awesome"
+    }
+  ]
+}

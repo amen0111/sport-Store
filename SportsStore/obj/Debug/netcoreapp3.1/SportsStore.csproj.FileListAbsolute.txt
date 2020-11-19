@@ -1,0 +1,311 @@
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.AssemblyInfoInputs.cache
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.AssemblyInfo.cs
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.CoreCompileInputs.cache
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.MvcApplicationPartsAssemblyInfo.cache
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorAssemblyInfo.cache
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorAssemblyInfo.cs
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.exe
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.deps.json
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.runtimeconfig.json
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.runtimeconfig.dev.json
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.pdb
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.Views.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.Views.pdb
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.TagHelpers.input.cache
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.TagHelpers.output.cache
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorCoreGenerate.cache
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Products\List.cshtml.g.cs
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorTargetAssemblyInfo.cache
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorTargetAssemblyInfo.cs
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.Views.pdb
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.CopyComplete
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\staticwebassets\SportsStore.StaticWebAssets.Manifest.cache
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\staticwebassets\SportsStore.StaticWebAssets.xml
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.dll
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.pdb
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.genruntimeconfig.cache
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csprojAssemblyReference.cache
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csprojAssemblyReference.cache
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.AssemblyInfoInputs.cache
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.AssemblyInfo.cs
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorAssemblyInfo.cache
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorAssemblyInfo.cs
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.TagHelpers.input.cache
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.TagHelpers.output.cache
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorCoreGenerate.cache
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Products\List.cshtml.g.cs
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorTargetAssemblyInfo.cache
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorTargetAssemblyInfo.cs
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.pdb
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.exe
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.deps.json
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.runtimeconfig.json
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.runtimeconfig.dev.json
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.pdb
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.Views.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.Views.pdb
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.Views.pdb
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.CopyComplete
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\staticwebassets\SportsStore.StaticWebAssets.Manifest.cache
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\staticwebassets\SportsStore.StaticWebAssets.xml
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.genruntimeconfig.cache
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\CTICT\Desktop\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csprojAssemblyReference.cache
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.AssemblyInfoInputs.cache
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.AssemblyInfo.cs
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.CoreCompileInputs.cache
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.MvcApplicationPartsAssemblyInfo.cache
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorAssemblyInfo.cache
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorAssemblyInfo.cs
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.pdb
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\libman.json
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.exe
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.deps.json
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.runtimeconfig.json
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.runtimeconfig.dev.json
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.pdb
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.Views.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.Views.pdb
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.TagHelpers.input.cache
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.TagHelpers.output.cache
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorCoreGenerate.cache
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Products\List.cshtml.g.cs
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorTargetAssemblyInfo.cache
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorTargetAssemblyInfo.cs
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.Views.pdb
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.CopyComplete
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\staticwebassets\SportsStore.StaticWebAssets.Manifest.cache
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\staticwebassets\SportsStore.StaticWebAssets.xml
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.genruntimeconfig.cache
+C:\data d\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\libman.json
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.exe
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.deps.json
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.runtimeconfig.json
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.runtimeconfig.dev.json
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.pdb
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.Views.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\SportsStore.Views.pdb
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csprojAssemblyReference.cache
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.AssemblyInfoInputs.cache
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.AssemblyInfo.cs
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.CoreCompileInputs.cache
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.MvcApplicationPartsAssemblyInfo.cache
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorAssemblyInfo.cache
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorAssemblyInfo.cs
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.TagHelpers.input.cache
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.TagHelpers.output.cache
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorCoreGenerate.cache
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Products\List.cshtml.g.cs
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorTargetAssemblyInfo.cache
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorTargetAssemblyInfo.cs
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.Views.pdb
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.CopyComplete
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\staticwebassets\SportsStore.StaticWebAssets.Manifest.cache
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\staticwebassets\SportsStore.StaticWebAssets.xml
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.dll
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.pdb
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.genruntimeconfig.cache
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+E:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\bin\Debug\netcoreapp3.1\libman.json
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\scopedcss\bundle\SportsStore.styles.css
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+D:\Học\Kỳ 1 2020-2021\Wed2\Project\SportsStore\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
